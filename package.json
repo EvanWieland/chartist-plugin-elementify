@@ -1,0 +1,26 @@
+{
+  "name": "chartist-plugin-elementify",
+  "version": "1.0.0",
+  "description": "Chartist.js plugin that appends elements",
+  "main": "chartist-plugin-elementify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanWieland/chartist-plugin-elementify.git"
+  },
+  "keywords": [
+    "Chartist.js",
+    "plugin",
+    "elementify",
+    "append",
+    "elements"
+  ],
+  "author": "Evan Wieland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanWieland/chartist-plugin-elementify/issues"
+  },
+  "homepage": "https://github.com/EvanWieland/chartist-plugin-elementify#readme"
+}
