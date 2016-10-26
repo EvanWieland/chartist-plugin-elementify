@@ -55,7 +55,7 @@
                         var item     = $.extend({}, {
                             class   : '',
                             id      : '',
-                            content : 'fillText',
+                            content : '',
                             position: 'center', //bottom, top, left, right
                             offsetY : 0, //top, bottom in px
                             offsetX : 0 //left, right in px
